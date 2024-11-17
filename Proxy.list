@@ -51,10 +51,6 @@ DOMAIN-SUFFIX,69yun.top
 DOMAIN-SUFFIX,nivodi.com
 DOMAIN-SUFFIX,steamcommunity.com
 DOMAIN-SUFFIX,steampowered.com
-DOMAIN-SUFFIX,user.strmz.cc
-DOMAIN-SUFFIX,robo.stream
-DOMAIN-SUFFIX,acsthosting.xyz
-DOMAIN-SUFFIX,user.strmzz.cx
 
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
