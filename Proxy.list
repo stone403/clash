@@ -1,7 +1,7 @@
-DOMAIN-SUFFIX,user.strmz.cc
-DOMAIN-SUFFIX,robo.stream
-DOMAIN-SUFFIX,acsthosting.xyz
-DOMAIN-SUFFIX,user.strmzz.cx
+DOMAIN,user.strmz.cc
+DOMAIN,robo.stream
+DOMAIN,acsthosting.xyz
+DOMAIN,user.strmzz.cx
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
