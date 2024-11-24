@@ -3,6 +3,15 @@ DOMAIN,robo.stream
 DOMAIN,acsthosting.xyz
 DOMAIN,user.strmzz.cx
 
+# 4GTV & Hamivideo
+DOMAIN-SUFFIX,4gtv.tv
+DOMAIN-SUFFIX,hinet.net
+DOMAIN-SUFFIX,ofiii.com
+
+# MytvSuper
+DOMAIN-SUFFIX,mytvsuper.com
+DOMAIN-SUFFIX,tvb.com
+
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
 IP-CIDR,103.115.43.2/32,no-resolve
