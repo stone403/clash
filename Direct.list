@@ -16,6 +16,7 @@ IP-CIDR,219.146.1.66/32,no-resolve
 # TPTV
 DOMAIN-SUFFIX,mobaibox.com
 IP-CIDR,183.207.0.0/16,no-resolve
+IP-CIDR,183.206.0.0/16,no-resolve
 
 # YSP
 DOMAIN-SUFFIX,cctv.cn
@@ -25,6 +26,11 @@ DOMAIN-SUFFIX,yangshipin.cn
 DOMAIN-SUFFIX,dnsany.com
 DOMAIN-SUFFIX,cmvideo.cn
 DOMAIN-SUFFIX,chinamobile.com
+DOMAIN-SUFFIX,gitv.tv
+DOMAIN-KEYWORD,iill
+DOMAIN-SUFFIX,iill.top
+DOMAIN-SUFFIX,livednow.com
+DOMAIN-SUFFIX,orz-7.com
 
 # 国内DNS
 DOMAIN-SUFFIX,dns.alidns.com
